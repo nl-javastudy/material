@@ -142,8 +142,26 @@ arr2[0] = 10;  // arr1도 영향 받음
 
 2. 동일한 코드를 intellij에서 실행하세요. 다른 버전의 jdk를 다운로드받은다음 그 버전으로 전환해 보세요.
 
-3. 프로그래머스의 평균 구하기 문제(https://school.programmers.co.kr/learn/courses/30/lessons/12944)를 해결하세요.
+3. 다음 코드를 작성하세요.
+    ```
+    public static void main(String[] args) {
+        String str1 = "hello";
+        String str2 = "hello";
+        System.out.println(str1 == str2);
+        System.out.println(str1.equals(str2));
 
+        String str3 = new String("world");
+        String str4 = new String("world");
+        System.out.println(str3 == str4);
+        System.out.println(str3.equals(str4));
+    }
+    ```
+
+4. 프로그래머스의 평균 구하기 문제(https://school.programmers.co.kr/learn/courses/30/lessons/12944)를 해결하세요.
+
+5. 프로그래머스의 자릿수 더하기 문제(https://school.programmers.co.kr/learn/courses/30/lessons/12931)를 해결하세요.
+
+6. 2번, 3번, 4번, 5번 코드를 자신의 학습노트의 chapter1 폴더에 저장하고 commit 후 원격 저장소에 push 하세요.
 
 ## 7. 세션 배부
   - 클래스(new)와 인스턴스(static)
