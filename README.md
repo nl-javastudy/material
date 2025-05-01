@@ -14,8 +14,10 @@
    - 3월 28일 (금)
 
 2. [Chapter 2: OOP](chapter2.md)
+   - 4월 4일 (금)
 
 3. [Chapter 3: 예외처리](chapter3.md)
+   - 5월 2일 (금)
 
 4. [Chapter 4: Generic](chapter4.md)
 
